@@ -1,5 +1,5 @@
 # wifi-ad-blocker
-Pi-hole setup guide for Raspberry Pi 4 with Jellyfin
+  * Pi-hole setup guide for Raspberry Pi 4 with Jellyfin
 
 Introduction
 This guide explains how I installed and configured Pi-hole on a Raspberry Pi 4 (2GB) that already has Jellyfin running.
